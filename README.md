@@ -9,6 +9,9 @@ An AI-powered fitness planning web application built with Python and Streamlit.
 - Meal planning
 - BMI and fitness information
 - User-friendly web interface
+- # FitBuddy: AI Fitness & Meal Planner
+
+🌐 **Live Website:** [Open FitBuddy](https://fitness-ai-lmmnhog8dzn7xdlafxvbbt.streamlit.app/)
 
 ## Technologies Used
 
