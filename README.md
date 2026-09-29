@@ -15,11 +15,6 @@ An AI-powered fitness planning web application built with Python and Streamlit.
 - Python
 - Streamlit
 
-## Live Demo
-
-## Live Demo
-
-[🚀 Open FitBuddy AI Fitness Website](https://fitness-ai-lmmnhog8dzn7xdlfaxvbbt.streamlit.app)
 
 ## Project Files
 
